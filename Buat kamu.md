@@ -22,3 +22,11 @@
 
       <div id="message" class="message">
         <h2>Happy Valentine's Day ❤️</h2>
+        <p>Terima kasih sudah hadir dalam hidupku 🌹</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
